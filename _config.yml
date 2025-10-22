@@ -263,7 +263,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "OdileYTWang.github.io/publications"
+      path: "https://OdileYTWang.github.io/publications"
       type: publications
     values:
       layout: single
