@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Yiting Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Numerical and Theoretical Physicist, Astrophysicist, Pilot"
+  location         : "USA"
   employer         : "University of Wisconsin-Madison"
   uri              : # URL
   email            : "wang2632@wisc.edu" 
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3143-4552"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : "yiting.wang.1276"
   flickr           : # Username
   foursquare       : # Username
